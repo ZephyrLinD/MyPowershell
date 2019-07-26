@@ -123,4 +123,12 @@ Oh-My-Posh 支持 Powerline 字体，才能达到上图那样漂亮的样子，�
 
     ![Accident!](images_1/accident.png)
 
-    不用惊慌，回到刚刚的文件里，注释掉 `Import-Model oh-my-posh` 这句话就好了。
+    不用慌，回到刚刚的文件里，注释掉 `Import-Model oh-my-posh` 这句话就好了。
+
+## 如果不想折腾
+
+以管理员身份在文件夹打开powershell
+
+```powershell
+.\MyPowershell.ps1
+```
