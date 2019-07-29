@@ -132,3 +132,6 @@ Oh-My-Posh 支持 Powerline 字体，才能达到上图那样漂亮的样子，�
 ```powershell
 .\MyPowershell.ps1
 ```
+
+测试机：ThinkPad X1 Carbon 6th Gen
+系统版本：Windows 10 1903
